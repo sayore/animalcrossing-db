@@ -32,7 +32,7 @@ h2 {
 a{
   display:block;
   text-align: center;
-  font-size:5vw;
+  font-size:3.5vw;
 }
 
 .collapsible {
