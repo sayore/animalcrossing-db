@@ -1,6 +1,6 @@
 <template lang="pug">
   comphead
-    input.fw-input(v-model="search")
+    input.fw-input(v-model="search" placeholder="Fisch oder Tiername")
     div
       .tb-entry(v-for="v,k in animaldata.fische" v-if="search.length==0 | v.Name.toLowerCase().indexOf(search.toLowerCase())!==-1") 
         .typ Fisch
@@ -36,8 +36,8 @@ module.exports = {
 .tb-entry {
   display:flex;
   flex-direction: row;
-  width:100vw;
-  font-size:4vw;
+  width:100%;
+  font-size:1.7em;
 }
 .tb-entry  > * {
   flex:3;
@@ -49,15 +49,18 @@ module.exports = {
   flex:1;
 }
 .fw-input {
-  width:95vw;
+  width:100%;
   display:block;
-  font-size:4vw;border:2px black solid;
+  font-size:1.7em;
+  border:2px black solid;
   margin:auto;
+  margin-top:20px;
+  margin-bottom:20px;
 }
 comphead {
   width:100vw;
 }
 span.small {
-  font-size:2vw;
+  font-size:.6em;
 }
 </style>
