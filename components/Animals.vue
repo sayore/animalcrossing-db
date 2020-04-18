@@ -2,14 +2,14 @@
   comphead
     input.fw-input(v-model="search")
     div
-      .tb-entry(v-for="v,k in animaldata.fische" v-if="search.length==0 | v.Name.indexOf(search)!==-1") 
+      .tb-entry(v-for="v,k in animaldata.fische" v-if="search.length==0 | v.Name.toLowerCase().indexOf(search.toLowerCase())!==-1") 
         .typ Fisch
         .name {{v.Name}}
         .price 
           span {{v.Verkaufspreis}}
           span.small Sternis
     ul
-      .tb-entry(v-for="v,k in animaldata.insekten" v-if="search.length==0 | v.Name.indexOf(search)!==-1")
+      .tb-entry(v-for="v,k in animaldata.insekten" v-if="search.length==0 | v.Name.toLowerCase().indexOf(search.toLowerCase())!==-1")
         .typ Insekt
         .name {{v.Name}}
         .price 
