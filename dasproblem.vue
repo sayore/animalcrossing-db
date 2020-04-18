@@ -9,6 +9,8 @@ html
         br
         br
         p Ihr seid unterwegs auf einer Insel in Animal Crossing und euer Inventar ist voll? Und ihr wisst einfach nicht für was genau ihr Fische und Insekten tauschen sollt um euren Gewinn zu maximieren? Mit diesem Tool schafft ihr es effizient die Items zu tauschen um möglichst viel Geld mit nach Hause nehmen zu können!
+        p Falls ihr mir einen Kaffee ausgeben wollte schickt mir gerne was zu!
+        a(href="https://paypal.me/edenprjctde?locale.x=de_DE") PayPal me!
 </template>
 
 <script>
