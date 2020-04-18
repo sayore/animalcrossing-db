@@ -1,0 +1,645 @@
+{
+  "insekten":[
+    {
+      "Name": "Kohlweißling (April)",
+      "Verkaufspreis": 160
+    },
+    {
+      "Name": "Zitronenfalter (April)",
+      "Verkaufspreis": 160
+    },
+    {
+      "Name": "Schwalbenschwarz (April)",
+      "Verkaufspreis": 240
+    },
+    {
+      "Name": "Ritterfalter (April)",
+      "Verkaufspreis": 2500
+    },
+    {
+      "Name": "Kolibrifalter (April)",
+      "Verkaufspreis": 300
+    },
+    {
+      "Name": "Weiße Baumnymphe (April)",
+      "Verkaufspreis": 1000
+    },
+    {
+      "Name": "Japan-Schillerfalter",
+      "Verkaufspreis": 300
+    },
+    {
+      "Name": "Monarchfalter",
+      "Verkaufspreis": 140
+    },
+    {
+      "Name": "Himmelsfalter",
+      "Verkaufspreis": 4000
+    },
+    {
+      "Name": "Agrias-Falter (April)",
+      "Verkaufspreis": 3000
+    },
+    {
+      "Name": "Troides brookiana (April)",
+      "Verkaufspreis": 2500
+    },
+    {
+      "Name": "Vogelfalter",
+      "Verkaufspreis": 4000
+    },
+    {
+      "Name": "Motte (April)",
+      "Verkaufspreis": 130
+    },
+    {
+      "Name": "Atlasspinner (April)",
+      "Verkaufspreis": 3000
+    },
+    {
+      "Name": "Regenbogenfalter (April)",
+      "Verkaufspreis": 2500
+    },
+    {
+      "Name": "Nasenschrecke (April)",
+      "Verkaufspreis": 200
+    },
+    {
+      "Name": "Wanderschrecke",
+      "Verkaufspreis": 600
+    },
+    {
+      "Name": "Heuschrecke",
+      "Verkaufspreis": 400
+    },
+    {
+      "Name": "Grashüpfer",
+      "Verkaufspreis": 160
+    },
+    {
+      "Name": "Grille",
+      "Verkaufspreis": 130
+    },
+    {
+      "Name": "Singgrille",
+      "Verkaufspreis": 430
+    },
+    {
+      "Name": "Gottesanbeterin (April)",
+      "Verkaufspreis": 430
+    },
+    {
+      "Name": "Orchideenmantis (April)",
+      "Verkaufspreis": 2400
+    },
+    {
+      "Name": "Honigbiene (April)",
+      "Verkaufspreis": 200
+    },
+    {
+      "Name": "Wespe (April)",
+      "Verkaufspreis": 2500
+    },
+    {
+      "Name": "Braunzikade",
+      "Verkaufspreis": 250
+    },
+    {
+      "Name": "Hyalessa-Zikade",
+      "Verkaufspreis": 300
+    },
+    {
+      "Name": "Riesenzikade",
+      "Verkaufspreis": 500
+    },
+    {
+      "Name": "Bergzikade",
+      "Verkaufspreis": 400
+    },
+    {
+      "Name": "Abendzikade",
+      "Verkaufspreis": 550
+    },
+    {
+      "Name": "Zikadenlarvenhaut",
+      "Verkaufspreis": 10
+    },
+    {
+      "Name": "Feuerlibelle",
+      "Verkaufspreis": 180
+    },
+    {
+      "Name": "Königslibelle (April)",
+      "Verkaufspreis": 230
+    },
+    {
+      "Name": "Quelljungfer",
+      "Verkaufspreis": 4500
+    },
+    {
+      "Name": "Wasserjungfer",
+      "Verkaufspreis": 500
+    },
+    {
+      "Name": "Leuchtkäfer",
+      "Verkaufspreis": 300
+    },
+    {
+      "Name": "Maulwurfsgrille (April)",
+      "Verkaufspreis": 500
+    },
+    {
+      "Name": "Wasserläufer",
+      "Verkaufspreis": 130
+    },
+    {
+      "Name": "Schwimmkäfer",
+      "Verkaufspreis": 800
+    },
+    {
+      "Name": "Riesenwanze (April)",
+      "Verkaufspreis": 2000
+    },
+    {
+      "Name": "Stinkwanze (April)",
+      "Verkaufspreis": 120
+    },
+    {
+      "Name": "Gesichtswanze (April)",
+      "Verkaufspreis": 1000
+    },
+    {
+      "Name": "Marienkäfer (April)",
+      "Verkaufspreis": 200
+    },
+    {
+      "Name": "Sandlaufkäfer (April)",
+      "Verkaufspreis": 1500
+    },
+    {
+      "Name": "Prachtkäfer (April)",
+      "Verkaufspreis": 2400
+    },
+    {
+      "Name": "Geigenkäfer",
+      "Verkaufspreis": 450
+    },
+    {
+      "Name": "Fichtenbock (April)",
+      "Verkaufspreis": 350
+    },
+    {
+      "Name": "Aplenbock",
+      "Verkaufspreis": 3000
+    },
+    {
+      "Name": "Blaurüsselkäfer",
+      "Verkaufspreis": 800
+    },
+    {
+      "Name": "Mistkäfer",
+      "Verkaufspreis": 3000
+    },
+    {
+      "Name": "Gold-Mistkäfer",
+      "Verkaufspreis": 300
+    },
+    {
+      "Name": "Goldskarabäus",
+      "Verkaufspreis": 10000
+    },
+    {
+      "Name": "Japan-Rosenkäfer",
+      "Verkaufspreis": 200
+    },
+    {
+      "Name": "Goliathkäfer",
+      "Verkaufspreis": 8000
+    },
+    {
+      "Name": "Sägezahn-Hirschkäfer",
+      "Verkaufspreis": 2000
+    },
+    {
+      "Name": "Hirschkäfer",
+      "Verkaufspreis": 1000
+    },
+    {
+      "Name": "Riesen-Hirschkäfer",
+      "Verkaufspreis": 10000
+    },
+    {
+      "Name": "Pracht-Hirschkäfer",
+      "Verkaufspreis": 6000
+    },
+    {
+      "Name": "Cyclommatus",
+      "Verkaufspreis": 8000
+    },
+    {
+      "Name": "Allotopus rosenbergi",
+      "Verkaufspreis": 12000
+    },
+    {
+      "Name": "Giraffenhirschkäfer",
+      "Verkaufspreis": 12000
+    },
+    {
+      "Name": "Nashornkäfer",
+      "Verkaufspreis": 1350
+    },
+    {
+      "Name": "Atlaskäfer",
+      "Verkaufspreis": 8000
+    },
+    {
+      "Name": "Elefantenkäfer",
+      "Verkaufspreis": 8000
+    },
+    {
+      "Name": "Herkuleskäfer",
+      "Verkaufspreis": 12000
+    },
+    {
+      "Name": "Stabschrecke",
+      "Verkaufspreis": 600
+    },
+    {
+      "Name": "Blattschrecke",
+      "Verkaufspreis": 600
+    },
+    {
+      "Name": "Sackträger (April)",
+      "Verkaufspreis": 600
+    },
+    {
+      "Name": "Ameise (April)",
+      "Verkaufspreis": 80
+    },
+    {
+      "Name": "Einsiedlerkrebs (April)",
+      "Verkaufspreis": 1000
+    },
+    {
+      "Name": "Ligia exotica (April)",
+      "Verkaufspreis": 200
+    },
+    {
+      "Name": "Fliege (April)",
+      "Verkaufspreis": 60
+    },
+    {
+      "Name": "Mücke",
+      "Verkaufspreis": 130
+    },
+    {
+      "Name": "Floh (April)",
+      "Verkaufspreis": 70
+    },
+    {
+      "Name": "Schnecke (April)",
+      "Verkaufspreis": 250
+    },
+    {
+      "Name": "Kugelassel (April)",
+      "Verkaufspreis": 250
+    },
+    {
+      "Name": "Hundertfüßer (April)",
+      "Verkaufspreis": 300
+    },
+    {
+      "Name": "Spinne (April)",
+      "Verkaufspreis": 600
+    },
+    {
+      "Name": "Vogelspinne (April)",
+      "Verkaufspreis": 8000
+    },
+    {
+      "Name": "Skorpion",
+      "Verkaufspreis": 8000
+    }
+  ],
+  "fische":[
+  {
+    "Name": "Bitterling",
+    "Verkaufspreis": 900
+  },
+  {
+    "Name": "Döbel (April)",
+    "Verkaufspreis": 200
+  },
+  {
+    "Name": "Karausche (April)",
+    "Verkaufspreis": 160
+  },
+  {
+    "Name": "Hasel (April)",
+    "Verkaufspreis": 240
+  },
+  {
+    "Name": "Karpfen (April)",
+    "Verkaufspreis": 300
+  },
+  {
+    "Name": "Koi-Karpfen (April)",
+    "Verkaufspreis": 3200
+  },
+  {
+    "Name": "Goldfisch (April)",
+    "Verkaufspreis": 1300
+  },
+  {
+    "Name": "Teleskopauge (April)",
+    "Verkaufspreis": 1300
+  },
+  {
+    "Name": "Ranchu (April)",
+    "Verkaufspreis": 4500
+  },
+  {
+    "Name": "Killifisch (April)",
+    "Verkaufspreis": 300
+  },
+  {
+    "Name": "Flusskrebs (April)",
+    "Verkaufspreis": 200
+  },
+  {
+    "Name": "Weichschildkröte",
+    "Verkaufspreis": 3750
+  },
+  {
+    "Name": "Schnappschildkröte (April)",
+    "Verkaufspreis": 5000
+  },
+  {
+    "Name": "Kaulquappe (April)",
+    "Verkaufspreis": 100
+  },
+  {
+    "Name": "Frosch",
+    "Verkaufspreis": 120
+  },
+  {
+    "Name": "Flussgrundel (April)",
+    "Verkaufspreis": 400
+  },
+  {
+    "Name": "Bachschmerle (April)",
+    "Verkaufspreis": 400
+  },
+  {
+    "Name": "Katzenwels",
+    "Verkaufspreis": 800
+  },
+  {
+    "Name": "Schlangenkopf",
+    "Verkaufspreis": 5500
+  },
+  {
+    "Name": "Sonnenbarsch (April)",
+    "Verkaufspreis": 180
+  },
+  {
+    "Name": "Flussbarsch",
+    "Verkaufspreis": 300
+  },
+  {
+    "Name": "Barsch (April)",
+    "Verkaufspreis": 320
+  },
+  {
+    "Name": "Tilapia",
+    "Verkaufspreis": 800
+  },
+  {
+    "Name": "Hecht",
+    "Verkaufspreis": 1800
+  },
+  {
+    "Name": "Stint",
+    "Verkaufspreis": 400
+  },
+  {
+    "Name": "Ayu",
+    "Verkaufspreis": 900
+  },
+  {
+    "Name": "Masulachs (April)",
+    "Verkaufspreis": 1000
+  },
+  {
+    "Name": "Saibling (April)",
+    "Verkaufspreis": 3800
+  },
+  {
+    "Name": "Goldforelle (April)",
+    "Verkaufspreis": 15000
+  },
+  {
+    "Name": "Huchen",
+    "Verkaufspreis": 15000
+  },
+  {
+    "Name": "Lachs",
+    "Verkaufspreis": 700
+  },
+  {
+    "Name": "Königslachs",
+    "Verkaufspreis": 1800
+  },
+  {
+    "Name": "Wollhandkrabbe",
+    "Verkaufspreis": 2000
+  },
+  {
+    "Name": "Guppy (April)",
+    "Verkaufspreis": 1300
+  },
+  {
+    "Name": "Saugbarbe",
+    "Verkaufspreis": 1500
+  },
+  {
+    "Name": "Skalar",
+    "Verkaufspreis": 3000
+  },
+  {
+    "Name": "Kampffisch",
+    "Verkaufspreis": 2500
+  },
+  {
+    "Name": "Neonsalmler (April)",
+    "Verkaufspreis": 500
+  },
+  {
+    "Name": "Regenbogenfisch",
+    "Verkaufspreis": 800
+  },
+  {
+    "Name": "Piranha",
+    "Verkaufspreis": 2500
+  },
+  {
+    "Name": "Arowana",
+    "Verkaufspreis": 10000
+  },
+  {
+    "Name": "Lachssalmler",
+    "Verkaufspreis": 15000
+  },
+  {
+    "Name": "Knochenhecht",
+    "Verkaufspreis": 6000
+  },
+  {
+    "Name": "Arapaima",
+    "Verkaufspreis": 10000
+  },
+  {
+    "Name": "Flösselhecht",
+    "Verkaufspreis": 4000
+  },
+  {
+    "Name": "Stör",
+    "Verkaufspreis": 10000
+  },
+  {
+    "Name": "See-Engel",
+    "Verkaufspreis": 1000
+  },
+  {
+    "Name": "Seepferdchen (April)",
+    "Verkaufspreis": 1100
+  },
+  {
+    "Name": "Anemonenfisch (April)",
+    "Verkaufspreis": 650
+  },
+  {
+    "Name": "Paletten-Doktorfisch (April)",
+    "Verkaufspreis": 1000
+  },
+  {
+    "Name": "Falterfisch (April)",
+    "Verkaufspreis": 1000
+  },
+  {
+    "Name": "Napoleonfisch",
+    "Verkaufspreis": 10000
+  },
+  {
+    "Name": "Rotfeuerfisch (April)",
+    "Verkaufspreis": 500
+  },
+  {
+    "Name": "Kugelfisch",
+    "Verkaufspreis": 5000
+  },
+  {
+    "Name": "Igelfisch",
+    "Verkaufspreis": 250
+  },
+  {
+    "Name": "Sardelle (April)",
+    "Verkaufspreis": 200
+  },
+  {
+    "Name": "Makrele (April)",
+    "Verkaufspreis": 150
+  },
+  {
+    "Name": "Schnabelbarsch (April)",
+    "Verkaufspreis": 5000
+  },
+  {
+    "Name": "Seebarsch (April)",
+    "Verkaufspreis": 400
+  },
+  {
+    "Name": "Kaiserschnapper (April)",
+    "Verkaufspreis": 3000
+  },
+  {
+    "Name": "Kliesche (April)",
+    "Verkaufspreis": 300
+  },
+  {
+    "Name": "Flunder (April)",
+    "Verkaufspreis": 800
+  },
+  {
+    "Name": "Kalmar (April)",
+    "Verkaufspreis": 500
+  },
+  {
+    "Name": "Muräne",
+    "Verkaufspreis": 2000
+  },
+  {
+    "Name": "Nasenmuräne",
+    "Verkaufspreis": 600
+  },
+  {
+    "Name": "Thunfisch (April)",
+    "Verkaufspreis": 7000
+  },
+  {
+    "Name": "Marlin (April)",
+    "Verkaufspreis": 10000
+  },
+  {
+    "Name": "Stachelmakrele",
+    "Verkaufspreis": 4500
+  },
+  {
+    "Name": "Goldmakrele",
+    "Verkaufspreis": 6000
+  },
+  {
+    "Name": "Mondfisch",
+    "Verkaufspreis": 4000
+  },
+  {
+    "Name": "Rochen",
+    "Verkaufspreis": 3000
+  },
+  {
+    "Name": "Sägehai",
+    "Verkaufspreis": 12000
+  },
+  {
+    "Name": "Hammerhai",
+    "Verkaufspreis": 8000
+  },
+  {
+    "Name": "Hai",
+    "Verkaufspreis": 15000
+  },
+  {
+    "Name": "Walhai",
+    "Verkaufspreis": 13000
+  },
+  {
+    "Name": "Schiffshalter",
+    "Verkaufspreis": 1500
+  },
+  {
+    "Name": "Anglerfisch",
+    "Verkaufspreis": 2500
+  },
+  {
+    "Name": "Riemenfisch (April)",
+    "Verkaufspreis": 9000
+  },
+  {
+    "Name": "Glaskopffisch (April)",
+    "Verkaufspreis": 15000
+  },
+  {
+    "Name": "Quastenflosser (April)",
+    "Verkaufspreis": 15000
+  }
+]}
