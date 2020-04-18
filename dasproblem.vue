@@ -1,16 +1,13 @@
 <template lang="pug">
-html
-  head
-  body
     .page
       button.collapsible(type="button" v-on:click="open= !open") Wofür ist das hier?
       .content(v-if="open==true")
         h1 Das Problem.. .. und die Lösung
-        br
-        br
         p Ihr seid unterwegs auf einer Insel in Animal Crossing und euer Inventar ist voll? Und ihr wisst einfach nicht für was genau ihr Fische und Insekten tauschen sollt um euren Gewinn zu maximieren? Mit diesem Tool schafft ihr es effizient die Items zu tauschen um möglichst viel Geld mit nach Hause nehmen zu können!
+        br
+        br
         p Falls ihr mir einen Kaffee ausgeben wollte schickt mir gerne was zu!
-        a(href="https://paypal.me/edenprjctde?locale.x=de_DE") PayPal me!
+        a(href="https://paypal.me/edenprjctde?locale.x=de_DE" style="text-align:center;") PayPal me!
 </template>
 
 <script>
@@ -24,9 +21,23 @@ module.exports = {
 </script>
 
 <style scoped>
+h1 {
+  text-align: center;
+  font-size:3vw;
+}
+h2 {
+  text-align: center;
+  font-size:2vw;
+}
+a{
+  display:block;
+  text-align: center;
+  font-size:5vw;
+}
+
 .collapsible {
   background-color: #eee;
-  color: #444;
+  color: rgb(80, 79, 79);
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -47,9 +58,10 @@ module.exports = {
   padding: 0 18px;
   overflow: hidden;
   background-color: #f1f1f1;
-  
+  box-shadow: inset 3px 3px 10px black;
 }
 p{
-  font-size:1em;
+  font-size:1.5em;
+  text-align: justify;
 }
 </style>
